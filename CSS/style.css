@@ -1,0 +1,21 @@
+body {
+    /* https://source.unsplash.com/twukN12EN7c/1920x1080 */
+    background: url('/Images/Background/bgImg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+/* h1.display-4 {
+    text-align: center;
+} */
+div#mumbo{
+    display: block;
+}

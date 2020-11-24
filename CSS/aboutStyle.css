@@ -1,0 +1,47 @@
+
+body {
+
+background: rgb(19,36,0);
+background: linear-gradient(90deg, rgba(19,36,0,0.9979342078628326) 0%, rgba(0,0,0,1) 0%, rgba(106,115,134,1) 45%, rgba(0,41,91,1) 100%);
+}
+.card {
+            /* background: rgb(0,36,26);
+background: linear-gradient(90deg, rgba(0,36,26,0.9979342078628326) 0%, rgba(9,115,121,1) 25%, rgba(255,0,0,1) 100%); */
+        background: rgb(11,154,154);
+        background: linear-gradient(90deg, rgba(11,154,154,1) 0%, rgba(0,0,0,1) 47%, rgba(0,137,172,1) 100%);
+}
+.jumbotron{
+            background: rgb(136,239,245);
+            background: linear-gradient(344deg, rgba(136,239,245,1) 0%, rgba(251,255,253,1) 100%);
+}
+.navbar {
+    background: rgb(11,154,154);
+background: linear-gradient(90deg, rgba(11,154,154,1) 0%, rgba(0,0,0,1) 47%, rgba(0,137,172,1) 100%);
+font-family: 'Texturina', serif;
+}
+.active{
+    background: rgb(0,0,0);
+    background: linear-gradient(38deg, rgba(0,0,0,0.9979342078628326) 0%, rgba(147,166,100,1) 0%, rgba(9,113,121,1) 50%, rgba(110,0,39,1) 100%);
+    border-radius: 20px;
+}
+.display-4 {
+    font-family: 'Texturina', serif;
+}
+.card-text {
+    /* font-family: 'Texturina', serif; */
+    font-family: 'Montserrat', sans-serif;
+}
+.card-title {
+    font-family: 'Texturina', serif;
+}
+.lead {
+    font-family: 'Montserrat', sans-serif;
+}
+.nav-item {
+    padding-left:20px;
+  padding-right:20px; 
+
+    margin-left: 20px;
+    margin-right: 20px;
+    text-transform: uppercase;
+}

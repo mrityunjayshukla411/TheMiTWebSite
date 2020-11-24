@@ -1,0 +1,84 @@
+/* body { */
+    /* https://source.unsplash.com/twukN12EN7c/1920x1080 */
+    /* background: url('/Images/Background/bgImg.jpg') no-repeat center center fixed; */
+    /* -webkit-background-size: cover; */
+    /* -moz-background-size: cover; */
+    /* background-size: cover; */
+    /* -o-background-size: cover; */
+/* } */
+body{
+    background-image:url('/Images/Background/bgGif1.txt');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+h1 {
+    /* font-family: 'Times New Roman', Times, serif; */
+    /* font-family: 'Lobster', cursive; */
+    /* font-family: 'Abril Fatface', cursive; */
+    font-family: 'Texturina', serif;
+    text-align: center;
+    color: whitesmoke;
+}
+.lead{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+}
+/* h1.display-4 {
+    text-align: center;
+} */
+div#mumbo{
+    display: block;
+}
+.jumbotron{
+    /* background: rgb(136,239,245);
+background: linear-gradient(344deg, rgba(136,239,245,1) 0%, rgba(251,255,253,1) 100%); */
+/* background: rgb(11,154,154);
+background: linear-gradient(90deg, rgba(11,154,154,1) 0%, rgba(0,0,0,1) 47%, rgba(0,137,172,1) 100%); */
+/* background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,0.9979342078628326) 0%, rgba(0,0,0,1) 0%, rgba(106,132,134,1) 37%, rgba(0,72,91,1) 100%); */
+/* background: rgb(0,0,0);
+background: linear-gradient(38deg, rgba(0,0,0,0.9979342078628326) 0%, rgba(147,166,100,1) 0%, rgba(9,113,121,1) 50%, rgba(110,0,39,1) 100%); */
+background: rgb(0,0,0);
+background: linear-gradient(38deg, rgba(0,0,0,0.9979342078628326) 0%, rgba(147,166,100,1) 0%, rgba(9,113,121,1) 52%, rgba(147,166,100,1) 100%);
+font-family: 'Stalinist One', cursive;
+color: whitesmoke;
+height: 400px;
+}
+.card {
+    background: rgb(11,154,154);
+background: linear-gradient(90deg, rgba(11,154,154,1) 0%, rgba(0,0,0,1) 47%, rgba(0,137,172,1) 100%);
+}
+.navbar {
+    background: rgb(11,154,154);
+background: linear-gradient(90deg, rgba(11,154,154,1) 0%, rgba(0,0,0,1) 47%, rgba(0,137,172,1) 100%);
+font-family: 'Texturina', serif;
+}
+.carousel-item{
+    height: 600px;
+}
+.display-4{
+    font-size: 100px;
+}
+.active{
+    background: rgb(0,0,0);
+    background: linear-gradient(38deg, rgba(0,0,0,0.9979342078628326) 0%, rgba(147,166,100,1) 0%, rgba(9,113,121,1) 50%, rgba(110,0,39,1) 100%);
+    border-radius: 20px;
+}
+.card-title {
+    font-family: 'Texturina', serif;
+}
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+}
+.nav-item {
+    padding-left:20px;
+  padding-right:20px; 
+
+    margin-left: 20px;
+    margin-right: 20px;
+    text-transform: uppercase;
+}

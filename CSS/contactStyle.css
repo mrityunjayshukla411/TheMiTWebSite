@@ -1,0 +1,40 @@
+body {
+    /* background: url('/Images/Background/bgImg3.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover; */
+    background: rgb(136, 239, 245);
+    background: linear-gradient(344deg, rgba(136, 239, 245, 1) 0%, rgba(251, 255, 253, 1) 100%);
+}
+.navbar {
+    background: rgb(11,154,154);
+background: linear-gradient(90deg, rgba(11,154,154,1) 0%, rgba(0,0,0,1) 47%, rgba(0,137,172,1) 100%);
+font-family: 'Texturina', serif;
+}
+.active{
+    background: rgb(0,0,0);
+    background: linear-gradient(38deg, rgba(0,0,0,0.9979342078628326) 0%, rgba(147,166,100,1) 0%, rgba(9,113,121,1) 50%, rgba(110,0,39,1) 100%);
+    border-radius: 20px;
+}
+#h1 {
+    font-family: 'Texturina', serif;
+    
+}
+.form-group {
+    font-family: 'Montserrat', sans-serif;
+}
+#submit {
+    font-family: 'Montserrat', sans-serif;
+}
+.nav-item {
+    padding-left:20px;
+  padding-right:20px; 
+
+    margin-left: 20px;
+    margin-right: 20px;
+    text-transform: uppercase;
+}
+.container {
+    margin-top: 30px;
+}
